@@ -56,7 +56,3 @@
     </ol>
     <h2>License</h2>
     <p>Distributed under the MIT License. See <a href="LICENSE">LICENSE</a> for more information.</p>
-
-   <h2>Contact</h2>
-    <p>Your Name - <a href="mailto:your-email@example.com">your-email@example.com</a></p>
-    <p>Project Link: <a href="https://github.com/your-username/text-converter-app">https://github.com/your-username/text-converter-app</a></p>
